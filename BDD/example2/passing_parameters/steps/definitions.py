@@ -1,4 +1,4 @@
-from behave import Given, When, Then
+from behave import *
 
 
 @Given("I have a new {item} in my cart")
